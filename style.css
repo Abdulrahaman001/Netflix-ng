@@ -393,6 +393,10 @@ header form input:nth-child(1) {
     cursor: pointer;
 }
 
+.dell {
+    padding-top: 10px;
+}
+
 @media screen and (max-width: 800px) {
     .grid-item h1 {
         font-size: 32px;
